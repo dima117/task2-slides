@@ -10,13 +10,17 @@ default_ratio: 16x9
 default_lang: en
 default_body_class: list
 
-author:
-    name: Yours Truly
-    # url:  http://example.com/
-    company:
-        name: Famous Inc.
-        # url:  http://example.com/
+presentation:
+    title: Presentation Title
+    service: Service name
+    nda: true
 
-fork_url: https://github.com/shower/shower
+author:
+    name: Author
+    position: Position
+    company:
+        name: Yandex
+        url:  http://yandex.com/
+
+fork_url: https://github.yandex-team.ru/dima117a/jekyller
 progress: true
-line_numbers: true
