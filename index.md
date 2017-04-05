@@ -1,6 +1,6 @@
 ---
 
-layout: ribbon
+layout: yandex2
 
 style: |
 

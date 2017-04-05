@@ -67,9 +67,9 @@ I'll describe there all the things you could do in your presentation, as well as
 
 ### Change theme
 
-By default Jekyller comes with the [ribbon theme](https://github.com/shower/ribbon) applied to all new slides. If you wish to change the default theme, change the `default_theme` variable in [config](_config.yml#L9).
+By default Jekyller comes with the [yandex2 theme](https://github.yandex-team.ru/dima117a/yandex2) applied to all new slides. If you wish to change the default theme, change the `default_theme` variable in [config](_config.yml#L9).
 
-Right now only two themes are available: `ribbon` and [`bright`](https://github.com/shower/bright).
+Right now only three themes are available: `yandex2`, `ribbon` and [`bright`](https://github.com/shower/bright).
 
 Themes are attached as submodules, so if you'd like to add your own great theme for Shower so anyone could use it with Jekyller, just send a pull request with it! However, don't forget that it should be attached via git read-only url — `git://` — in order to work under GitHub Pages.
 

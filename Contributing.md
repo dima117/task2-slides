@@ -5,6 +5,7 @@ You're always welcome to contibute! There are five repositories in Shower projec
 - [Shower](https://github.com/shower/shower) engine with Ribbon theme
 - [Template](https://github.com/shower/template) for Shower engine and built-in themes
 - [Ribbon](https://github.com/shower/ribbon) theme for Shower
+- [Yandex2](https://github.yandex-team.ru/dima117a/yandex2) theme for Shower
 - [Bright](https://github.com/shower/bright) theme for Shower
 - [Jekyller](https://github.com/shower/jekyller) generator for Shower
 
