@@ -8,6 +8,18 @@ style: |
 
 # ![](themes/yandex2/images/logo-en.svg){:.logo.cover}
 
+## **{{ site.presentation.title }}** {#cover}
+
+<div class="service">{{ site.presentation.service }}</div>
+
+{% if site.presentation.nda %}
+<div class="nda"></div>
+{% endif %}
+
+<div class="info">
+	<p class="author">{{ site.author.name }}, <br/>{{ site.author.position }}</p>
+</div>
+
 ## Shower Key Features
 
 1. Built on HTML, CSS and vanilla JavaScript
