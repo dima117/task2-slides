@@ -6,6 +6,7 @@ relative_permalinks: false
 
 default_theme: yandex2
 default_width: 1024
+default_ratio: 16x19
 default_lang: en
 default_body_class: list
 
