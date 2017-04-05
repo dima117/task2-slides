@@ -9,4 +9,4 @@
 	url = https://github.com/shower/core.git
 [submodule "themes/yandex2"]
 	path = themes/yandex2
-	url = git@github.yandex-team.ru:dima117a/yandex2.git
+	url = https://github.yandex-team.ru/dima117a/yandex2.git
