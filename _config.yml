@@ -1,11 +1,11 @@
 safe: true
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title.html
 relative_permalinks: false
 
-default_theme: ribbon
-default_width: 792
+default_theme: yandex2
+default_width: 1024
 default_lang: en
 default_body_class: list
 
