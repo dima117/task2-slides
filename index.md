@@ -20,6 +20,20 @@ style: |
 	<p class="author">{{ site.author.name }}, <br/>{{ site.author.position }}</p>
 </div>
 
+## Верхний колонтитул
+{:.section}
+
+### Название раздела
+
+## Заголовок
+
+### Вводный текст (первый уровень текста)
+
+*  Второй уровень текста
+	* Третий уровень текста (буллиты)
+
+	1. Четвертый уровень текста
+
 ## Shower Key Features
 
 1. Built on HTML, CSS and vanilla JavaScript
