@@ -6,7 +6,7 @@ style: |
     div {}
 ---
 
-# ![](themes/yandex2/images/logo-en.svg){:.logo.cover}
+# ![](themes/yandex2/images/logo-{{ lang }}.svg){:.logo.cover}
 
 ## **{{ site.presentation.title }}** {#cover}
 
