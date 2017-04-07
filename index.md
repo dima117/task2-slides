@@ -6,10 +6,10 @@ style: |
     div {}
 ---
 
-## ![](themes/yandex2/images/logo-{{ site.lang }}.svg){:.logo}
-{:.section}
+# ![](themes/yandex2/images/logo-{{ site.lang }}.svg){:.logo}
 
-# {{ site.presentation.title }}
+
+## {{ site.presentation.title }}
 
 <div class="service">{{ site.presentation.service }}</div>
 
