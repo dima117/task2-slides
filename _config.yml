@@ -14,9 +14,10 @@ presentation:
     title: Presentation Title
     service: Service name
     nda: true
+    lang: ru
 
 author:
-    name: Author
+    name: Author Name
     position: Position
     company:
         name: Yandex
