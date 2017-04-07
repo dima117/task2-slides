@@ -9,7 +9,7 @@ style: |
 # ![](themes/yandex2/images/logo-ru.svg){:.logo.cover}
 
 
-## {{ site.presentation.title }}
+## **{{ site.presentation.title }}**
 
 <div class="service">{{ site.presentation.service }}</div>
 
@@ -21,10 +21,10 @@ style: |
 	<p class="author">{{ site.author.name }}, <br/>{{ site.author.position }}</p>
 </div>
 
-## Верхний колонтитул
-{:.section}
+## **Название раздела**
 
-### Название раздела
+Верхний колонтитул
+{:.header}
 
 ## Заголовок
 
