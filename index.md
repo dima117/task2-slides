@@ -6,9 +6,10 @@ style: |
     div {}
 ---
 
-# ![](themes/yandex2/images/logo-{{ lang }}.svg){:.logo.cover}
+## ![](themes/yandex2/images/logo-{{ site.lang }}.svg){:.logo}
+{:.section}
 
-## **{{ site.presentation.title }}** {#cover}
+# {{ site.presentation.title }}
 
 <div class="service">{{ site.presentation.service }}</div>
 
