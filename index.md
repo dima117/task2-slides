@@ -6,7 +6,7 @@ style: |
     div {}
 ---
 
-# ![](themes/yandex2/images/logo-ru.svg){:.logo.cover}
+# ![](themes/yandex2/images/logo-{{ page.lang }}.svg){:.logo.cover}
 
 
 ## **{{ site.presentation.title }}**
@@ -23,8 +23,7 @@ style: |
 
 ## **Название раздела**
 
-Верхний колонтитул
-{:.header}
+###Верхний колонтитул{:.header}
 
 ## Заголовок
 
