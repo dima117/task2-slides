@@ -8,23 +8,21 @@ style: |
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo.cover}
 
-
 ## **{{ site.presentation.title }}**
 
-<div class="service">{{ site.presentation.service }}</div>
+<div class="title-service">{{ site.presentation.service }}</div>
 
 {% if site.presentation.nda %}
-<div class="nda"></div>
+<div class="title-nda"></div>
 {% endif %}
 
-<div class="info">
-	<p class="author">{{ site.author.name }}, <br/>{{ site.author.position }}</p>
+<div class="title-info">
+	<p>{{ site.author.name }}, <br/>{{ site.author.position }}</p>
 </div>
 
 ## **Название раздела**
 
 ### Верхний колонтитул
-{:.header}
 
 ## Заголовок
 
