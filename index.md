@@ -17,7 +17,13 @@ style: |
 {% endif %}
 
 <div class="authors">
-	<p>{{ site.author.name }}, <br/>{{ site.author.position }}</p>
+	{% if site.author %}
+	<p>{{ site.author.name }}, {{ site.author.position }}</p>
+	{% endif %}
+
+	{% if site.author2 %}
+	<p>{{ site.author2.name }}, {{ site.author2.position }}</p>
+	{% endif %}
 </div>
 
 ## **Название раздела**
