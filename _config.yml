@@ -23,5 +23,13 @@ author:
         name: Yandex
         url:  http://yandex.com/
 
+author2:
+    name: Author2 Name
+    position: Position2
+    company:
+        name: Yandex
+        url:  http://yandex.com/
+
+
 fork_url: https://github.yandex-team.ru/dima117a/jekyller
 progress: true
