@@ -14,9 +14,7 @@ style: |
 ### ![](themes/yandex2/images/title-logo-{{ site.presentation.lang }}.svg) {{ site.presentation.service }}
 
 {% if site.presentation.nda %}
-<div class="nda" markdown="1">
-![](themes/yandex2/images/nda.svg)
-</div>
+![](themes/yandex2/images/nda.svg){:.nda}
 {% endif %}
 
 <div class="authors">
