@@ -14,7 +14,7 @@ style: |
 ### ![](themes/yandex2/images/title-logo-{{ site.presentation.lang }}.svg) {{ site.presentation.service }}
 
 {% if site.presentation.nda %}
-![](themes/yandex2/images/nda.svg)
+![](themes/yandex2/images/title-nda.svg)
 {:.nda}
 {% endif %}
 
