@@ -11,7 +11,7 @@ style: |
 ## {{ site.presentation.title }}
 {:.title}
 
-### {{ site.presentation.service }}
+### ![](themes/yandex2/images/title-logo-{{ site.presentation.lang }}.svg) {{ site.presentation.service }}
 
 {% if site.presentation.nda %}
 <div class="nda"></div>
