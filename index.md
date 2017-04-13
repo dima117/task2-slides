@@ -9,6 +9,7 @@ style: |
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo.cover}
 
 ## **{{ site.presentation.title }}**
+{:.title}
 
 ### {{ site.presentation.service }}
 
@@ -21,6 +22,7 @@ style: |
 </div>
 
 ## **Название раздела**
+{:.section}
 
 ### Верхний колонтитул
 
