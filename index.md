@@ -8,7 +8,7 @@ style: |
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
 
-## **{{ site.presentation.title }}**
+## {{ site.presentation.title }}
 {:.title}
 
 ### {{ site.presentation.service }}
