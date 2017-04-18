@@ -41,6 +41,8 @@ style: |
 
 Основной текст
 
+**Главная мысль**
+
 - маркированный список
 - маркированный список
 
@@ -51,11 +53,40 @@ style: |
 
 ### Основной текст
 
+**Главная мысль**
+
 - маркированный список
 - маркированный список
 
 1. Нумерованный список
 2. Нумерованный список
+
+## Заголовок
+{:.images}
+
+![](pictures/horizontal-middle-placeholder.png)
+*Текст*
+
+## Заголовок
+{:.images .two}
+
+![](pictures/horizontal-middle-placeholder.png)
+*Текст*
+
+![](pictures/horizontal-middle-placeholder.png)
+*Текст*
+
+## Заголовок
+{:.images .three}
+
+![](pictures/horizontal-placeholder.png)
+*Текст*
+
+![](pictures/horizontal-placeholder.png)
+*Текст*
+
+![](pictures/horizontal-placeholder.png)
+*Текст*
 
 ## Test
 
