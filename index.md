@@ -83,8 +83,9 @@ style: |
 *Текст*
 
 ## Заголовок
-{:.icons}
+{:.images .three}
 
+<div class="icons">
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
@@ -93,6 +94,7 @@ style: |
 
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
+</div>
 
 
 ## Заголовок
