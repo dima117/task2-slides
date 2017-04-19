@@ -98,8 +98,9 @@ style: |
 
 
 ## Заголовок
-{:.icons .four}
+{:.images .four}
 
+<div class="icons" markdown="1">
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
@@ -111,10 +112,12 @@ style: |
 
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
+</div>
 
 ## Заголовок
-{:.icons .five}
+{:.images .five}
 
+<div class="icons" markdown="1">
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
@@ -129,7 +132,7 @@ style: |
 
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
-
+</div>
 
 ## Test
 
