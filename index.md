@@ -82,6 +82,53 @@ style: |
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
+## Заголовок
+{:.icons}
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+
+## Заголовок
+{:.icons .four}
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+## Заголовок
+{:.icons .five}
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+![](themes/yandex2/images/images-two.svg)
+*Текст*
+
+
 ## Test
 
 ### Вводный текст (первый уровень текста)
