@@ -64,27 +64,27 @@ style: |
 ## Заголовок
 {:.images}
 
-![](pictures/horizontal-middle-placeholder.png)
+![](themes/yandex2/images/images-one.svg)
 
 ## Заголовок
 {:.images .two}
 
-![](pictures/horizontal-middle-placeholder.png)
+![](themes/yandex2/images/images-two.svg)
 *Текст*
 
-![](pictures/horizontal-middle-placeholder.png)
+![](themes/yandex2/images/images-two.svg)
 *Текст*
 
 ## Заголовок
 {:.images .three}
 
-![](pictures/horizontal-placeholder.png)
+![](themes/yandex2/images/images-two.svg)
 *Текст*
 
-![](pictures/horizontal-placeholder.png)
+![](themes/yandex2/images/images-two.svg)
 *Текст*
 
-![](pictures/horizontal-placeholder.png)
+![](themes/yandex2/images/images-two.svg)
 *Текст*
 
 ## Test
