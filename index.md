@@ -85,7 +85,7 @@ style: |
 ## Заголовок
 {:.images .three}
 
-<div class="icons">
+<div class="icons" markdown="1">
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
