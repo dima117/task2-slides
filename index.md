@@ -127,6 +127,13 @@ style: |
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
+## ![](themes/yandex2/images/images-fullscreen.svg)
+{:.images .fullscreen}
+
+Первый абзац текста
+
+Второй абзац текста - более длинный, чем первый для переноса на несколько строк
+
 ## Test
 
 ### Вводный текст (первый уровень текста)
