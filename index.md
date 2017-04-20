@@ -85,7 +85,6 @@ style: |
 ## Заголовок
 {:.icons}
 
-<div class="icons" markdown="1">
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
@@ -94,13 +93,10 @@ style: |
 
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
-</div>
-
 
 ## Заголовок
 {:.icons .four}
 
-<div class="icons" markdown="1">
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
@@ -112,12 +108,10 @@ style: |
 
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
-</div>
 
 ## Заголовок
 {:.icons .five}
 
-<div class="icons" markdown="1">
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
@@ -132,7 +126,6 @@ style: |
 
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
-</div>
 
 ## Test
 
