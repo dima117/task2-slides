@@ -37,7 +37,7 @@
 <section class="slide{{ slide_extra_class }}"{{ slide_attrs }}><div><h2{% endcapture %}
                 {% assign newslide = slide | remove_first:slide_attrs %}
                 {% if slide_extra_class %}
-                    {% assign newslide = newslide | replace_first:'><strong>','>' %}
+                    {% assign newslide = newslide | replace_first:'><strong>','><i></i>' %}
                     {% assign newslide = newslide | replace_first:'</strong></h2>','</h2>' %}
                 {% endif %}
                 {% capture showerify_middle %}{{ showerify_middle }}{{ newslide }}{% endcapture %}
