@@ -8,15 +8,6 @@ style: |
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
 
-## **ewfweweg-hhhhhh**
-
-**ewfweweg-pppppp**
-
-## ewfweweg-hhhhhh
-
-**ewfweweg-pppppp**
-
-
 ## {{ site.presentation.title }}
 {:.title}
 
@@ -45,9 +36,7 @@ style: |
 
 Основной текст
 
-**Главная мысль**
-
-*Главная мысль*
+**Главная мысль на две строки. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod**
 
 - маркированный список
 - маркированный список
@@ -61,9 +50,7 @@ style: |
 
 Основной текст
 
-*Главная мысль*
-
-*Главная мысль*
+**Главная мысль**
 
 - маркированный список
 - маркированный список
