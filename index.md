@@ -36,7 +36,9 @@ style: |
 
 Основной текст
 
-**Главная мысль**
+*Главная мысль*
+
+*Главная мысль*
 
 - маркированный список
 - маркированный список
@@ -48,7 +50,9 @@ style: |
 
 ### Основной текст
 
-**Главная мысль**
+*Главная мысль*
+
+*Главная мысль*
 
 - маркированный список
 - маркированный список
@@ -56,10 +60,14 @@ style: |
 1. Нумерованный список
 2. Нумерованный список
 
+### Источник
+
 ## Заголовок
 {:.images}
 
 ![](themes/yandex2/images/images-one.svg)
+
+### Источник
 
 ## Заголовок
 {:.images .two}
@@ -70,65 +78,78 @@ style: |
 ![](themes/yandex2/images/images-two.svg)
 *Текст*
 
+### Источник
+
 ## Заголовок
 {:.images .three}
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/images-three.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/images-three.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/images-three.svg)
 *Текст*
+
+### Источник
 
 ## Заголовок
 {:.icons}
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
+
+### Источник
 
 ## Заголовок
 {:.icons .four}
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
+
+### Источник
 
 ## Заголовок
 {:.icons .five}
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
 
-![](themes/yandex2/images/images-two.svg)
+![](themes/yandex2/images/icons.svg)
 *Текст*
+
+### Источник
 
 ## ![](themes/yandex2/images/images-fullscreen.svg)
-{:.images .fullscreen}
+{:.fullscreen}
+
+## ![](themes/yandex2/images/images-fullscreen.svg)
+{:.fullscreen}
 
 Первый абзац текста
 
