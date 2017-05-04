@@ -146,7 +146,7 @@ style: |
 ## ![](themes/yandex2/images/images-fullscreen.svg)
 {:.fullscreen}
 
-## ![](themes/yandex2/images/images-fullscreen.svg)
+## ![](themes/yandex2/images/images-fullscreen.jpg)
 {:.fullscreen}
 
 <figure markdown="1">
@@ -165,6 +165,8 @@ style: |
 | *Terry*       | *Richardson* | *Swag*     | *Blog*     |
 
 It’s good to have information organized.
+
+### Источник
 
 ## Test
 
