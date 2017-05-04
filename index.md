@@ -211,10 +211,12 @@ Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, 
 
 |  Locavore      | Umami       | Helvetica | Vegan     |
 +----------------|-------------|-----------|-----------+
-|* Fingerstache *| Kale        | Chips     | Keytar    |
-|* Sriracha     *| Gluten-free | Ennui     | Keffiyeh  |
-|* Thundercats  *| Jean        | Shorts    | Biodiesel |
-|* Terry        *| Richardson  | Swag      | Blog      |
+|  Fingerstache  | Kale        | Chips     | Keytar    |
+|  Sriracha      | Gluten-free | Ennui     | Keffiyeh  |
+|  Thundercats   | Jean        | Shorts    | Biodiesel |
+|  Terry         | Richardson  | Swag      | Blog      |
++----------------|-------------|-----------|-----------+
+|  Locavore      | Umami       | Helvetica | Vegan     |
 
 It’s good to have information organized.
 
