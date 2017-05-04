@@ -149,9 +149,22 @@ style: |
 ## ![](themes/yandex2/images/images-fullscreen.svg)
 {:.fullscreen}
 
+<figure markdown="1">
 Первый абзац текста
 
 Второй абзац текста - более длинный, чем первый для переноса на несколько строк
+</figure>
+
+## Even Tables
+
+|  Locavore      |  Umami       |  Helvetica  |  Vegan      |
++----------------|--------------|-------------|-------------+
+|  Fingerstache  |  Kale        |  Chips      |  Keytar     |
+|  Sriracha      |  Gluten-free |  Ennui      |  Keffiyeh   |
+|  Thundercats   |  Jean        |  Shorts     |  Biodiesel  |
+|* Terry        *|* Richardson *|* Swag      *|* Blog      *|
+
+It’s good to have information organized.
 
 ## Test
 
@@ -206,19 +219,6 @@ Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, 
         <meta charset="<mark class="important">UTF-8</mark>">
         <link rel="stylesheet" href="screen.css">
     <mark></head></mark>
-
-## Even Tables
-
-|  Locavore      | Umami       | Helvetica | Vegan     |
-+----------------|-------------|-----------|-----------+
-|  Fingerstache  | Kale        | Chips     | Keytar    |
-|  Sriracha      | Gluten-free | Ennui     | Keffiyeh  |
-|  Thundercats   | Jean        | Shorts    | Biodiesel |
-|  Terry         | Richardson  | Swag      | Blog      |
-+----------------|-------------|-----------|-----------+
-|  Locavore      | Umami       | Helvetica | Vegan     |
-
-It’s good to have information organized.
 
 ## Pictures
 {:.cover #Picture}
