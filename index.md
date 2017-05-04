@@ -104,7 +104,7 @@ style: |
 ![](themes/yandex2/images/icons.svg)
 *Текст*
 
-### Источник
+### [Библиотека пиктограмм](https://patterns.yandex-team.ru/presentations?typeIn=icons)
 
 ## Заголовок
 {:.icons .four}
@@ -121,7 +121,7 @@ style: |
 ![](themes/yandex2/images/icons.svg)
 *Текст*
 
-### Источник
+### [Библиотека пиктограмм](https://patterns.yandex-team.ru/presentations?typeIn=icons)
 
 ## Заголовок
 {:.icons .five}
@@ -141,7 +141,7 @@ style: |
 ![](themes/yandex2/images/icons.svg)
 *Текст*
 
-### Источник
+### [Библиотека пиктограмм](https://patterns.yandex-team.ru/presentations?typeIn=icons)
 
 ## ![](themes/yandex2/images/images-fullscreen.svg)
 {:.fullscreen}
