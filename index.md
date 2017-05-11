@@ -212,15 +212,40 @@ Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, 
 <figcaption>Marcus Tullius Cicero</figcaption>
 </figure>
 
-## Code Samples
+## Code Samples (html)
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <mark><head></mark> <mark class="comment"><!--Comment--></mark>
-        <title>Shower</title>
-        <meta charset="<mark class="important">UTF-8</mark>">
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Shower</title> <!--Comment-->
         <link rel="stylesheet" href="screen.css">
-    <mark></head></mark>
+    </head>
+    <body>Hello!</body>
+</html>
+```
+
+## Code Samples (js)
+
+```js
+var x = 10;
+for (var i = 0; i < x; i++) {
+    console.log(i);
+}
+```
+
+## Code Samples (css)
+
+```js
+.head {
+    background-color: yellow;
+}
+
+.head__logo {
+   background-image: url(images/logo.svg);
+}
+```
+
 
 ## Pictures
 {:.cover #Picture}
