@@ -170,31 +170,37 @@ It’s good to have information organized.
 
 ## Code Samples (html)
 
-    <!DOCTYPE html>
-    <html lang="en">
-        <head>
-            <title>Shower</title> <!--Comment-->
-            <link rel="stylesheet" href="screen.css">
-        </head>
-        <body>Hello!</body>
-    </html>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Shower</title> <!--Comment-->
+    <link rel="stylesheet" href="screen.css">
+</head>
+<body>Hello!</body>
+</html>
+```
 
 ## Code Samples (js)
 
-    var x = 10;
-    for (var i = 0; i < x; i++) {
-        console.log('hello!');
-    }
+```js
+var x = 10;
+for (var i = 0; i < x; i++) {
+console.log('hello!');
+}
+```
 
 ## Code Samples (css)
 
-    .head {
-        background-color: yellow;
-    }
+```css
+.head {
+    background-color: yellow;
+}
 
-    .head__logo {
-       background-image: url(images/logo.svg);
-    }
+.head__logo {
+    background-image: url(images/logo.svg);
+}
+```
 
 ## Test
 
