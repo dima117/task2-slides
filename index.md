@@ -214,38 +214,31 @@ Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, 
 
 ## Code Samples (html)
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>Shower</title> <!--Comment-->
-        <link rel="stylesheet" href="screen.css">
-    </head>
-    <body>Hello!</body>
-</html>
-```
+    <!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>Shower</title> <!--Comment-->
+            <link rel="stylesheet" href="screen.css">
+        </head>
+        <body>Hello!</body>
+    </html>
 
 ## Code Samples (js)
 
-```js
-var x = 10;
-for (var i = 0; i < x; i++) {
-    console.log(i);
-}
-```
+    var x = 10;
+    for (var i = 0; i < x; i++) {
+        console.log('hello!');
+    }
 
 ## Code Samples (css)
 
-```css
-.head {
-    background-color: yellow;
-}
+    .head {
+        background-color: yellow;
+    }
 
-.head__logo {
-   background-image: url(images/logo.svg);
-}
-```
-
+    .head__logo {
+       background-image: url(images/logo.svg);
+    }
 
 ## Pictures
 {:.cover #Picture}
