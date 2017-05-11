@@ -236,7 +236,7 @@ for (var i = 0; i < x; i++) {
 
 ## Code Samples (css)
 
-```js
+```css
 .head {
     background-color: yellow;
 }
