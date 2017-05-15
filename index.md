@@ -232,9 +232,9 @@ for (var i = 0; i < x; i++) {
 
 {{ site.author.position }}
 
-- author{:.skype}
-- author@yandex-team.ru{:.mail}
-- @author{:.twitter}
+- author {:.skype}
+- author@yandex-team.ru {:.mail}
+- @author {:.twitter}
 - author{:.vk}
 - author{:.facebook}
 
