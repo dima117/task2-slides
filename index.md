@@ -64,10 +64,10 @@ style: |
 
 Элементы появляются по очереди
 
-1. *Нумерованный список*{:.next}
-2. *Нумерованный список*{:.next}
-3. *Нумерованный список*{:.next}
-4. *Нумерованный список*{:.next}
+1. {:.next}Нумерованный список
+2. {:.next}Нумерованный список
+3. {:.next}Нумерованный список
+4. {:.next}Нумерованный список
 
 ### Источник
 
@@ -244,11 +244,11 @@ for (var i = 0; i < x; i++) {
 
 {{ site.author.position }}
 
-- *author*{:.skype}
-- *author@yandex-team.ru*{:.mail}
-- *@author*{:.twitter}
-- author{:.vk}
-- author{:.facebook}
+- {:.skype}author
+- {:.mail}author@yandex-team.ru
+- {:.twitter}@author
+- {:.vk}author
+- {:.facebook}author
 
 </figure>
 
