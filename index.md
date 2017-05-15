@@ -207,6 +207,16 @@ for (var i = 0; i < x; i++) {
 
 ```
 
+## &nbsp;
+{:.fullscreen}
+
+```js
+var x = 10;
+for (var i = 0; i < x; i++) {
+    console.log('hello!');
+}
+```
+
 ## Test
 
 ### Вводный текст (первый уровень текста)
