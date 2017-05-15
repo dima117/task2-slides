@@ -223,6 +223,23 @@ for (var i = 0; i < x; i++) {
 }
 ```
 
+## Контакты 
+{:.contacts}
+
+<figure markdown="1">
+
+### {{ site.author.name }}
+
+{{ site.author.position }}
+
+- author{:.skype}
+- author@yandex-team.ru{:.mail}
+- @author{:.twitter}
+- author{:.vk}
+- author{:.facebook}
+
+</figure>
+
 ## Test
 
 ### Вводный текст (первый уровень текста)
