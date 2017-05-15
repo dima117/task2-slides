@@ -215,6 +215,8 @@ for (var i = 0; i < x; i++) {
 {:.fullscreen}
 
 ```js
+// fullscreen code
+
 var x = 10;
 for (var i = 0; i < x; i++) {
     console.log('hello!');
