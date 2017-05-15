@@ -186,7 +186,7 @@ It’s good to have information organized.
 ```js
 var x = 10;
 for (var i = 0; i < x; i++) {
-console.log('hello!');
+    console.log('hello!');
 }
 ```
 
@@ -200,6 +200,11 @@ console.log('hello!');
 .head__logo {
     background-image: url(images/logo.svg);
 }
+
+#test, body {
+    font-weight: bold;
+}
+
 ```
 
 ## Test
