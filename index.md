@@ -246,11 +246,21 @@ for (var i = 0; i < x; i++) {
 
 - {:.skype}author
 - {:.mail}author@yandex-team.ru
+- {:.github}author
+
+</figure>
+
+<figure markdown="1">
+
+### Author Name 2
+
+Разработчик интерфейсов
+
 - {:.twitter}@author
-- {:.vk}author
 - {:.facebook}author
 
 </figure>
+
 
 ## Test
 
