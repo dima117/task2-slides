@@ -107,6 +107,8 @@ style: |
 ## Заголовок
 {:.icons}
 
+<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
+
 ![](themes/yandex2/images/icons.svg)
 *Текст*
 
@@ -120,6 +122,8 @@ style: |
 
 ## Заголовок
 {:.icons .four}
+
+<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
 
 ![](themes/yandex2/images/icons.svg)
 *Текст*
@@ -137,6 +141,8 @@ style: |
 
 ## Заголовок
 {:.icons .five}
+
+<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
 
 ![](themes/yandex2/images/icons.svg)
 *Текст*
@@ -199,6 +205,8 @@ It’s good to have information organized.
 
 ## Code Samples (js)
 
+Пояснение для кода.
+
 ```js
 var x = 10;
 for (var i = 0; i < x; i++) {
@@ -223,7 +231,7 @@ for (var i = 0; i < x; i++) {
 
 ```
 
-## &nbsp;
+## Этот заголовок будет скрыт
 {:.fullscreen}
 
 ```js
