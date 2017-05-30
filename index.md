@@ -106,10 +106,12 @@ style: |
 
 ## Заголовок
 
-![](themes/yandex2/images/images-right.svg)
+![](themes/yandex2/images/image-right.svg)
 {:.image-right}
 
 Это дополнительный текст. Он переносится на вторую строку.
+
+**Главная мысль**
 
 - это список - элемент 1
 - элемент 2
