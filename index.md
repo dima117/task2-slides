@@ -199,7 +199,7 @@ style: |
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](themes/yandex2/images/images-fullscreen.jpg)
+![](themes/yandex2/images/images-fullscreen.svg)
 
 <figure markdown="1">
 Первый абзац текста
