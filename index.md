@@ -105,9 +105,24 @@ style: |
 ### Источник
 
 ## Заголовок
-{:.images .right}
 
 ![](themes/yandex2/images/images-right.svg)
+{:.image-right}
+
+Это дополнительный текст. Он переносится на вторую строку.
+
+- это список - элемент 1
+- элемент 2
+- элемент 3
+
+### Источник
+
+## Заголовок
+
+<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
+
+![](themes/yandex2/images/icons.svg)
+{:.icon-left}
 
 Это дополнительный текст. Он переносится на вторую строку.
 
@@ -171,21 +186,6 @@ style: |
 
 ![](themes/yandex2/images/icons.svg)
 *Текст*
-
-### Источник
-
-## Заголовок
-{:.icons .left}
-
-<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
-
-![](themes/yandex2/images/icons.svg)
-
-Это дополнительный текст. Он переносится на вторую строку.
-
-- это список - элемент 1
-- элемент 2
-- элемент 3
 
 ### Источник
 
