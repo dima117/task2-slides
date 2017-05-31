@@ -238,8 +238,7 @@ It’s good to have information organized.
 Пояснение для кода.
 
 ```js
-var i,j, 
-    data = new Array(2, 34, 4, 0, 234, 5);
+var i, j, over, data = new Array(2, 34, 4, 0, 234, 5);
 
 for(i = 1; i < data.length; i++) {
     over = data[i]; 
@@ -248,7 +247,6 @@ for(i = 1; i < data.length; i++) {
     }
     data[j+1] = over;
 }
-
 alert(data.join(','));
 ```
 
