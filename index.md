@@ -238,10 +238,23 @@ It’s good to have information organized.
 Пояснение для кода.
 
 ```js
-var x = 10;
-for (var i = 0; i < x; i++) {
-    console.log('hello!');
+var i,j;
+
+var data = new Array(2, 34, 4, 0, 234, 5),
+
+for(i = 1; i < data.length; i++)
+{
+    over = data[i]; 
+     
+    for(j = i - 1; j >= 0 && data[j] > over; j--) 
+    {
+        data[j + 1] = data[j];
+    }
+    
+    data[j+1] = over;
 }
+
+alert(data.join(','));
 ```
 
 ## Code Samples (css)
