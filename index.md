@@ -211,7 +211,7 @@ style: |
 
 |  Locavore     |  Umami       |  Helvetica |  Vegan     |
 +---------------|--------------|------------|------------+
-|  Fingerstache |  Kale        |  Chips     |  Keytar    |
+|  Fingerstache<br/>The second line |  Kale        |  Chips     |  Keytar    |
 |  Sriracha     |  Gluten-free |  Ennui     |  Keffiyeh  |
 |  Thundercats  |  Jean        |  Shorts    |  Biodiesel |
 |* Terry        |* Richardson  |* Swag      |* Blog      |
