@@ -19,7 +19,14 @@ style: |
 {% endif %}
 
 <div class="authors">
-	<p>{{ site.author.name }}, {{ site.author.position }}</p>
+{% if site.author %}
+<p>{{ site.author.name }}{% if site.author.position %}, {{ site.author.position }}{% endif %}</p>
+{% endif %}
+
+{% if site.author2 %}
+<p>{{ site.author2.name }}{% if site.author2.position %}, {{ site.author2.position }}{% endif %}</p>
+{% endif %}
+
 </div>
 
 ## Название раздела
@@ -282,21 +289,33 @@ for (var i = 0; i < x; i++) {
 ## Контакты 
 {:.contacts}
 
+{% if site.author %}
+
 <figure markdown="1">
 
 ### {{ site.author.name }}
 
+{% if site.author.position %}
 {{ site.author.position }}
+{% endif %}
 
 </figure>
+
+{% endif %}
+
+{% if site.author2 %}
 
 <figure markdown="1">
 
-### Author Name 2
+### {{ site.author2.name }}
 
-Разработчик интерфейсов
+{% if site.author2.position %}
+{{ site.author2.position }}
+{% endif %}
 
 </figure>
+
+{% endif %}
 
 <!-- left -->
 - {:.skype}author
