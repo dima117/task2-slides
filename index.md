@@ -288,10 +288,6 @@ for (var i = 0; i < x; i++) {
 
 {{ site.author.position }}
 
-- {:.skype}author
-- {:.mail}author@yandex-team.ru
-- {:.github}author
-
 </figure>
 
 <figure markdown="1">
@@ -300,7 +296,13 @@ for (var i = 0; i < x; i++) {
 
 Разработчик интерфейсов
 
+</figure>
+
+<!-- left -->
+- {:.skype}author
+- {:.mail}author@yandex-team.ru
+- {:.github}author
+
+<!-- right -->
 - {:.twitter}@author
 - {:.facebook}author
-
-</figure>
