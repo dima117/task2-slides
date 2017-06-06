@@ -23,6 +23,9 @@ author:
         name: Yandex
         url:  http://yandex.com/
 
+author2:
+    name: Николай Петров
+    position: Разработчик интерфейсов
 
 fork_url: https://github.yandex-team.ru/presentation/jekyller
 progress: true
