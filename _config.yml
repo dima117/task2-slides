@@ -11,21 +11,22 @@ default_lang: en
 default_body_class: list
 
 presentation:
-    title: Presentation Title
-    service: Service name
+    title: Название презентации
+    service: Название сервиса
     nda: true
     lang: ru            # ru, en
 
 author:
-    name: Author Name
-    position: Position
+    name: Иван Петров
+    position: разработчик интерфейсов
     company:
-        name: Yandex
+        name: Яндекс
         url:  http://yandex.com/
 
+# если нет второго автора, удалите эту секцию
 author2:
-    name: Николай Петров
-    position: Разработчик интерфейсов
+    name: Николай Николаев
+    position: разработчик интерфейсов
 
 fork_url: https://github.yandex-team.ru/presentation/jekyller
 progress: true
