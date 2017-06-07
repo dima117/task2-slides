@@ -1,6 +1,4 @@
-# Jekyller
-
-Jekyller - это генератор разметки для [Shower](https://github.com/shower/shower) на основе контента в md.
+Jekyller - это генератор разметки для [Shower](https://github.com/shower/shower) на основе контента в md. В этом репозитории также подключена тема оформления слайдов с корпоративным стилем Яндекса.
 
 ## Установка
 
