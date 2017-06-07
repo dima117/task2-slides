@@ -3,6 +3,7 @@
 layout: yandex2
 
 style: |
+    /* собственные стили можно писать здесь!! */
     div {}
 ---
 
@@ -77,7 +78,6 @@ style: |
 4. {:.next}Нумерованный список
 
 ### Источник
-
 
 ## Заголовок
 {:.images}
@@ -214,7 +214,7 @@ style: |
 Второй абзац текста - более длинный, чем первый для переноса на несколько строк
 </figure>
 
-## Even Tables
+## Таблицы
 
 |  Locavore     |  Umami       |  Helvetica |  Vegan     |
 +---------------|--------------|------------|------------+
@@ -223,11 +223,11 @@ style: |
 |  Thundercats  |  Jean        |  Shorts    |  Biodiesel |
 |* Terry        |* Richardson  |* Swag      |* Blog      |
 
-It’s good to have information organized.
+Дополнительный текст под таблицей.
 
 ### Источник
 
-## Code Samples (html)
+## Исходный код (html)
 
 ```html
 <!DOCTYPE html>
@@ -240,7 +240,7 @@ It’s good to have information organized.
 </html>
 ```
 
-## Code Samples (js)
+## Исходный код (js)
 
 Пояснение для кода.
 
@@ -257,7 +257,7 @@ for(i = 1; i < data.length; i++) {
 alert(data.join(','));
 ```
 
-## Code Samples (css)
+## Исходный код (css)
 
 ```css
 .head {
@@ -278,7 +278,7 @@ alert(data.join(','));
 {:.fullscreen}
 
 ```js
-// fullscreen code
+// исходный код (на весь экран)
 
 var x = 10;
 for (var i = 0; i < x; i++) {
@@ -325,3 +325,19 @@ for (var i = 0; i < x; i++) {
 <!-- right -->
 - {:.twitter}@author
 - {:.facebook}author
+
+<!-- 
+
+- {:.mail}author@yandex-team.ru
+- {:.phone}+7-999-888-7766
+- {:.github}author
+- {:.bitbucket}author
+- {:.twitter}@author
+- {:.telegram}author
+- {:.skype}author
+- {:.instagram}author
+- {:.facebook}author
+- {:.vk}@author
+- {:.ok}@author
+
+-->
