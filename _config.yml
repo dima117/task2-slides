@@ -13,7 +13,7 @@ default_body_class: list
 presentation:
     title: Название презентации
     service: Название сервиса
-    nda: true
+    nda: false
     lang: ru            # ru, en
 
 author:
