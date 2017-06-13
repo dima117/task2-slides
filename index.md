@@ -313,7 +313,6 @@ for (var i = 0; i < x; i++) {
 <!-- right -->
 - {:.twitter}@author
 - {:.facebook}author
-- {:.instagram}author
 
 <!-- 
 
