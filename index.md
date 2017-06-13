@@ -303,6 +303,8 @@ for (var i = 0; i < x; i++) {
 
 {% endif %}
 
+-------
+
 <!-- left -->
 - {:.skype}author
 - {:.mail}author@yandex-team.ru
