@@ -23,10 +23,10 @@ author:
         name: Яндекс
         url:  http://yandex.com/
 
-# если нет второго автора, удалите эту секцию
-author2:
-    name: Николай Николаев
-    position: разработчик интерфейсов
+# второй автор
+# author2:
+#   name: Николай Николаев
+#   position: разработчик интерфейсов
 
 fork_url: https://github.yandex-team.ru/presentation/jekyller
 progress: true # отображение прогресс-бара в нижней части слайдов
