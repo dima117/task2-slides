@@ -1,7 +1,7 @@
 {% capture strip_whitespace %}
 {% include setup.md %}
 
-{% assign slideNum = 0 %}
+{% assign slideNum = 1 %}
 
 {% assign items = showerify_input | split:'<h1' %}
 {% for item in items %}
@@ -18,7 +18,10 @@
 {% for item in items %}
     {% capture h1_attrs %}{{ item | split:'>' | first }}{% endcapture %}
     {% if flag != false %}
-        {% capture showerify_middle %}<section{{ h1_attrs | replace_first:'class="','class="slide ' }}{% unless h1_attrs contains 'class' %} class="slide cover"{% endunless %}><div><h2{% endcapture %}
+        {% capture showerify_middle %}
+
+<!-- slide #{{ slideNum }} -->{% assign slideNum = slideNum | plus:1 %}        
+<section{{ h1_attrs | replace_first:'class="','class="slide ' }}{% unless h1_attrs contains 'class' %} class="slide cover"{% endunless %}><div><h2{% endcapture %}
         {% assign slides = item | remove_first:h1_attrs | replace_first:'</h1>','</h2>' | split: '<h2' %}
 
         {% assign flag = false %}
@@ -37,8 +40,8 @@
                 {% assign flag = true %}
             {% else %}
                 {% capture showerify_middle %}{{ showerify_middle }}</div></section>
-<!-- slide #{{ slideNum }} -->
-{% assign slideNum = slideNum | plus:1 %}
+
+<!-- slide #{{ slideNum }} -->{% assign slideNum = slideNum | plus:1 %}
 <section class="slide{{ slide_extra_class }}"{{ slide_attrs }}><div><h2{% endcapture %}
                 {% assign newslide = slide | remove_first:slide_attrs %}
                 {% if slide_extra_class %}
