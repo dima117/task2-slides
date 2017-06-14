@@ -13,13 +13,18 @@ style: |
         font-weight: normal !important;
     }
     
-    code .nt,    /* html tags */
-    code .nc,    /* css class */
-    code .nf     /* id */
+    .slide code .nt,    /* html tags */
+    .slide code .nc,    /* css class */
+    .slide code .nf     /* id */
     {   
         font-weight: normal !important;
         color: red !important;
     }
+    
+    .slide code .na     /* html attribute name */
+    {
+        color: red !important;
+    }    
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
