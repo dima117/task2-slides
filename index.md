@@ -21,9 +21,33 @@ style: |
         color: red !important;
     }
     
-    .slide code .na     /* html attribute name */
+    .slide .slide code .na     /* html attribute name */
     {
         color: red !important;
+    }  
+    
+    .slide code .nx     /* variables */      
+    {
+        color: red !important;
+    }
+
+    .slide code .s,    /* string */
+    .slide code .s1    /* string */
+    {
+        color: red !important;
+    }
+
+    .slide code .c,    /* comments */
+    .slide code .c1    /* comments */
+    {
+        color: red !important;
+    }
+
+    .slide code .k,    /* keywords */
+    .slide code .kd    /* keywords */
+    {
+        color: red !important;
+        font-weight: normal !important;
     }    
 ---
 
