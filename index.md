@@ -5,14 +5,6 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
 
-    .slide.black,
-    .slide.black h2
-    {
-        background-color: #333;
-        color: white !important;
-        font-weight: normal !important;
-    }
-    
     .slide code .nt,    /* html tags */
     .slide code .nc,    /* css class */
     .slide code .nf     /* id */
@@ -50,6 +42,55 @@ style: |
         color: red !important;
         font-weight: normal !important;
     }    
+    
+    /*** для темных слайдов ***/
+    
+    .slide.black,
+    .slide.black h2
+    {
+        background-color: #333;
+        color: white !important;
+        font-weight: normal !important;
+    }
+
+    .slide.black code .nt,    /* html tags */
+    .slide.black code .nc,    /* css class */
+    .slide.black code .nf     /* id */
+    {   
+        font-weight: normal !important;
+        color: lime !important;
+    }
+    
+    .slide.black code .na     /* html attribute name */
+    {
+        color: lime !important;
+    }  
+    
+    .slide.black code .nx     /* variables */      
+    {
+        color: lime !important;
+    }
+
+    .slide.black code .s,    /* string */
+    .slide.black code .s1    /* string */
+    {
+        color: lime !important;
+    }
+
+    .slide.black code .c,    /* comments */
+    .slide.black code .c1    /* comments */
+    {
+        color: lime !important;
+    }
+
+    .slide.black code .k,     /* keywords */
+    .slide.black code .kd,    /* keywords */
+    .slide.black code .nb     /* keywords */
+    {
+        color: lime !important;
+        font-weight: normal !important;
+    }    
+
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
