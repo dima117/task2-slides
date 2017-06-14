@@ -26,19 +26,19 @@ style: |
     .slide code .s,    /* string */
     .slide code .s1    /* string */
     {
-        color: red !important;
+        color: #9E64A9 !important;
     }
 
     .slide code .mi,   /* number */
     .slide code .mf    /* number */
     {
-        color: red !important;
+        color: #3878BE !important;
     }
 
     .slide code .c,    /* comments */
     .slide code .c1    /* comments */
     {
-        color: red !important;
+        color: #FE8C00 !important;
     }
 
     .slide code .k,     /* keywords */
@@ -46,13 +46,13 @@ style: |
     .slide code .kc,    /* keywords */
     .slide code .nb     /* keywords */
     {
-        color: red !important;
+        color: #5BCD9D !important;
         font-weight: normal !important;
     }    
     
     .slide code .nl     /* css property */
     {
-        color: red !important;
+        color: #3878BE !important;
     }
 
     .slide code .no,     /* css property value */
