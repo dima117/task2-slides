@@ -20,7 +20,7 @@ style: |
     
     .slide code .nx     /* variables */      
     {
-        color: #3878BE !important;
+        color: #FE8C00 !important;
     }
 
     .slide code .s,    /* string */
@@ -52,7 +52,7 @@ style: |
     
     .slide code .nl     /* css property */
     {
-        color: #3878BE !important;
+        color: #FE8C00 !important;
     }
 
     .slide code .no,     /* css property value */
