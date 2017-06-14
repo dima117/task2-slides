@@ -76,12 +76,12 @@ style: |
     .slide.black code .nf     /* id */
     {   
         font-weight: normal !important;
-        color: lime !important;
+        color: #FFCC00 !important;
     }
     
     .slide.black code .na     /* html attribute name */
     {
-        color: #FFCC00 !important;
+        color: #5BCD9D !important;
     }  
     
     .slide.black code .nx     /* variables */      
