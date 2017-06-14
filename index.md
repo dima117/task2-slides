@@ -3,51 +3,53 @@
 layout: yandex2
 
 style: |
-    /* собственные стили можно писать здесь!! */
-    .slide.black,
-    .slide.black h2
-    {
-        background-color: #333;
-        color: white !important;
-        font-weight: normal !important;
-    }
-    
-    code .nt,    // html tags
-	code .nc,    // css class
-    code .nf     // id
-    {   
-		font-weight: normal !important;
-		color: red !important;
-	}
+/* собственные стили можно писать здесь!! */
 
-	code .na // html attribute name
-	{
-		color: red !important;
-	}
+.slide.black,
+.slide.black h2
+{
+    background-color: #333;
+    color: white !important;
+    font-weight: normal !important;
+}
 
-	code .nx      
-	{
-		color: red !important;
-	}
+code .nt,    /* html tags */
+code .nc,    /* css class */
+code .nf     /* id */
+{   
+    font-weight: normal !important;
+    color: red !important;
+}
 
-	code .s,    // string
-	code .s1    // string
-	{
-		color: red !important;
-	}
+code .na     /* html attribute name */
+{
+    color: red !important;
+}
 
-	code .c,    // comments
-	code .c1    // comments
-	{
-		color: red !important;
-	}
-	
-	code .k,    // keywords
-	code .kd    // keywords
-	{
-		color: red !important;
-		font-weight: normal !important;
-	}
+code .nx     /* variables */      
+{
+    color: red !important;
+}
+
+code .s,    /* string */
+code .s1    /* string */
+{
+    color: red !important;
+}
+
+code .c,    /* comments */
+code .c1    /* comments */
+{
+    color: red !important;
+}
+
+code .k,    /* keywords */
+code .kd    /* keywords */
+{
+    color: red !important;
+    font-weight: normal !important;
+}
+
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
