@@ -12,6 +12,14 @@ style: |
         color: white !important;
         font-weight: normal !important;
     }
+    
+    code .nt,    /* html tags */
+    code .nc,    /* css class */
+    code .nf     /* id */
+    {   
+        font-weight: normal !important;
+        color: red !important;
+    }
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
