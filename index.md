@@ -9,8 +9,45 @@ style: |
     {
         background-color: #333;
         color: white !important;
-        font-weight: normal;
+        font-weight: normal !important;
     }
+    
+    code .nt,    // html tags
+	code .nc,    // css class
+    code .nf     // id
+    {   
+		font-weight: normal !important;
+		color: red !important;
+	}
+
+	code .na // html attribute name
+	{
+		color: red !important;
+	}
+
+	code .nx      
+	{
+		color: red !important;
+	}
+
+	code .s,    // string
+	code .s1    // string
+	{
+		color: red !important;
+	}
+
+	code .c,    // comments
+	code .c1    // comments
+	{
+		color: red !important;
+	}
+	
+	code .k,    // keywords
+	code .kd    // keywords
+	{
+		color: red !important;
+		font-weight: normal !important;
+	}
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
