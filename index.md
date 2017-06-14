@@ -4,7 +4,10 @@ layout: yandex2
 
 style: |
     /* собственные стили можно писать здесь!! */
-    div {}
+    .slide.black {
+        background-color: #333;
+        color: white !important;
+    }
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
@@ -259,6 +262,57 @@ alert(data.join(','));
 }
 
 ```
+
+## Исходный код (html)
+{:.black}
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Shower</title> <!--Comment-->
+    <link rel="stylesheet" href="screen.css">
+</head>
+<body>Hello!</body>
+</html>
+```
+
+## Исходный код (js)
+{:.black}
+
+Пояснение для кода.
+
+```js
+var i, j, over, data = new Array(2, 34, 4, 0, 234, 5);
+
+for(i = 1; i < data.length; i++) {
+    over = data[i]; 
+    for(j = i - 1; j >= 0 && data[j] > over; j--) {
+        data[j + 1] = data[j];
+    }
+    data[j+1] = over;
+}
+alert(data.join(','));
+```
+
+## Исходный код (css)
+{:.black}
+
+```css
+.head {
+    background-color: yellow;
+}
+
+.head__logo {
+    background-image: url(images/logo.svg);
+}
+
+#test, body {
+    font-weight: bold;
+}
+
+```
+
 
 ## Этот заголовок будет скрыт
 {:.fullscreen}
