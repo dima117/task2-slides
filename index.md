@@ -43,6 +43,7 @@ style: |
 
     .slide code .k,     /* keywords */
     .slide code .kd,    /* keywords */
+    .slide code .kc,    /* keywords */
     .slide code .nb     /* keywords */
     {
         color: red !important;
@@ -108,6 +109,7 @@ style: |
 
     .slide.black code .k,     /* keywords */
     .slide.black code .kd,    /* keywords */
+    .slide.black code .kc,    /* keywords */
     .slide.black code .nb     /* keywords */
     {
         color: lime !important;
