@@ -81,30 +81,30 @@ style: |
     
     .slide.black code .na     /* html attribute name */
     {
-        color: lime !important;
+        color: #FFCC00 !important;
     }  
     
     .slide.black code .nx     /* variables */      
     {
-        color: lime !important;
+        color: #9E64A9 !important;
     }
 
     .slide.black code .s,    /* string */
     .slide.black code .s1    /* string */
     {
-        color: lime !important;
+        color: #72C3E0 !important;
     }
     
     .slide.black code .mi,   /* number */
     .slide.black code .mf    /* number */
     {
-        color: lime !important;
+        color: #5BCD9D !important;
     }
 
     .slide.black code .c,    /* comments */
     .slide.black code .c1    /* comments */
     {
-        color: lime !important;
+        color: #FC6767 !important;
     }
 
     .slide.black code .k,     /* keywords */
@@ -112,20 +112,20 @@ style: |
     .slide.black code .kc,    /* keywords */
     .slide.black code .nb     /* keywords */
     {
-        color: lime !important;
+        color: #9E64A9 !important;
         font-weight: normal !important;
     } 
     
     .slide.black code .nl     /* css property */
     {
-        color: lime !important;
+        color: white !important;
     }
 
     
     .slide.black code .no,     /* css property value */
     .slide.black code .sx      /* css property value */
     {
-        color: lime !important;
+        color: #FFCC00 !important;
     }
 ---
 
