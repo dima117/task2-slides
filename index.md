@@ -43,8 +43,9 @@ style: |
         color: red !important;
     }
 
-    .slide code .k,    /* keywords */
-    .slide code .kd    /* keywords */
+    .slide code .k,     /* keywords */
+    .slide code .kd,    /* keywords */
+    .slide code .nb     /* keywords */
     {
         color: red !important;
         font-weight: normal !important;
