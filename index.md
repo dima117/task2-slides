@@ -29,7 +29,8 @@ style: |
         color: red !important;
     }
 
-    .slide code .ni    /* number */
+    .slide code .mi,   /* number */
+    .slide code .mf    /* number */
     {
         color: red !important;
     }
@@ -93,7 +94,8 @@ style: |
         color: lime !important;
     }
     
-    .slide.black code .ni    /* number */
+    .slide.black code .mi,   /* number */
+    .slide.black code .mf    /* number */
     {
         color: lime !important;
     }
@@ -350,6 +352,7 @@ style: |
 
 ```js
 var i, j, over, data = new Array(2, 34.12, 4.7, 0, 234, 5);
+var test = false;
 
 for(i = 1; i < data.length; i++) {
     over = data[i]; 
@@ -399,6 +402,7 @@ alert(data.join(','));
 
 ```js
 var i, j, over, data = new Array(2, 34.12, 4.7, 0, 234, 5);
+var test = false;
 
 for(i = 1; i < data.length; i++) {
     over = data[i]; 
