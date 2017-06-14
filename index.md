@@ -43,6 +43,17 @@ style: |
         font-weight: normal !important;
     }    
     
+    .slide code .nl     /* css property */
+    {
+        color: red !important;
+    }
+
+    .slide code .no,     /* css property value */
+    .slide code .sx      /* css property value */
+    {
+        color: red !important;
+    }
+    
     /*** для темных слайдов ***/
     
     .slide.black,
@@ -89,8 +100,13 @@ style: |
     {
         color: lime !important;
         font-weight: normal !important;
-    }    
-
+    } 
+    
+    .slide.black code .no,     /* css property value */
+    .slide.black code .sx      /* css property value */
+    {
+        color: lime !important;
+    }
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
