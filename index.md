@@ -3,17 +3,15 @@
 layout: yandex2
 
 style: |
-/* собственные стили можно писать здесь!! */
+    /* собственные стили можно писать здесь!! */
 
-.slide.black,
-.slide.black h2
-{
-    background-color: #333;
-    color: white !important;
-    font-weight: normal !important;
-}
-
-
+    .slide.black,
+    .slide.black h2
+    {
+        background-color: #333;
+        color: white !important;
+        font-weight: normal !important;
+    }
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
