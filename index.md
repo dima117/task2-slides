@@ -38,7 +38,7 @@ style: |
     .slide code .c,    /* comments */
     .slide code .c1    /* comments */
     {
-        color: #FE8C00 !important;
+        color: #7F7F7F !important;
     }
 
     .slide code .k,     /* keywords */
