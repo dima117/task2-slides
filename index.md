@@ -29,6 +29,11 @@ style: |
         color: red !important;
     }
 
+    .slide code .ni    /* number */
+    {
+        color: red !important;
+    }
+
     .slide code .c,    /* comments */
     .slide code .c1    /* comments */
     {
@@ -87,6 +92,11 @@ style: |
     {
         color: lime !important;
     }
+    
+    .slide.black code .ni    /* number */
+    {
+        color: lime !important;
+    }
 
     .slide.black code .c,    /* comments */
     .slide.black code .c1    /* comments */
@@ -101,6 +111,12 @@ style: |
         color: lime !important;
         font-weight: normal !important;
     } 
+    
+    .slide.black code .nl     /* css property */
+    {
+        color: lime !important;
+    }
+
     
     .slide.black code .no,     /* css property value */
     .slide.black code .sx      /* css property value */
@@ -333,7 +349,7 @@ style: |
 Пояснение для кода.
 
 ```js
-var i, j, over, data = new Array(2, 34, 4, 0, 234, 5);
+var i, j, over, data = new Array(2, 34.12, 4.7, 0, 234, 5);
 
 for(i = 1; i < data.length; i++) {
     over = data[i]; 
@@ -382,7 +398,7 @@ alert(data.join(','));
 Пояснение для кода.
 
 ```js
-var i, j, over, data = new Array(2, 34, 4, 0, 234, 5);
+var i, j, over, data = new Array(2, 34.12, 4.7, 0, 234, 5);
 
 for(i = 1; i < data.length; i++) {
     over = data[i]; 
