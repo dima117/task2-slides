@@ -21,7 +21,7 @@ style: |
         color: red !important;
     }
     
-    .slide .slide code .na     /* html attribute name */
+    .slide code .na     /* html attribute name */
     {
         color: red !important;
     }  
