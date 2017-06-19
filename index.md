@@ -235,12 +235,12 @@ style: |
 var i, j, over, data = new Array(2, 34.12, 4.7, 0, 234, 5);
 var test = false;
 
-for(i = 1; i < data.length; i++) {
+for (i = 1; i < data.length; i++) {
     over = data[i]; 
-    for(j = i - 1; j >= 0 && data[j] > over; j--) {
+    for (j = i - 1; j >= 0 && data[j] > over; j--) {
         data[j + 1] = data[j];
     }
-    data[j+1] = over;
+    data[j + 1] = over;
 }
 alert(data.join(','));
 ```
@@ -287,12 +287,12 @@ var test = false;
 
 console.log('Подождите минуточку...');
 
-for(i = 1; i < data.length; i++) {
+for (i = 1; i < data.length; i++) {
     over = data[i]; 
-    for(j = i - 1; j >= 0 && data[j] > over; j--) {
+    for (j = i - 1; j >= 0 && data[j] > over; j--) {
         data[j + 1] = data[j];
     }
-    data[j+1] = over;
+    data[j + 1] = over;
 }
 alert(data.join(','));
 ```
