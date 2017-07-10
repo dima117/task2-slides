@@ -132,7 +132,7 @@ git clone https://github.yandex-team.ru/[owner]/[repo-name].git --bare
 ```
 3. Добавьте в локальную копию репозитория ссылку на созданный пустой репозиторий.
 ```
-cd [repo-name]/
+cd [repo-name].git
 git remote add public https://github.com/[owner]/[repo-name].git
 ```
 3. Выполните Push во внешний репозиторий с ключом `--mirror`
