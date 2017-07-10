@@ -1,9 +1,0 @@
-[submodule "themes/ribbon"]
-	path = themes/ribbon
-	url = https://github.com/shower/ribbon.git
-[submodule "themes/bright"]
-	path = themes/bright
-	url = https://github.com/shower/bright.git
-[submodule "themes/yandex2"]
-	path = themes/yandex2
-	url = https://github.yandex-team.ru/dima117a/yandex2.git
