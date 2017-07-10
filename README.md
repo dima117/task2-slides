@@ -135,7 +135,7 @@ git clone https://github.yandex-team.ru/[owner]/[repo-name].git --bare
 cd [repo-name].git
 git remote add public https://github.com/[owner]/[repo-name].git
 ```
-3. Выполните Push во внешний репозиторий с ключом `--mirror`
+4. Выполните Push во внешний репозиторий с ключом `--mirror`
 ```
 git push public --mirror
 ```
