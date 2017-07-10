@@ -72,9 +72,7 @@ Jekyll Shower работает в GitHub Pages и для его использо
 
 Вы можете использовать пиктограммы (небольшие схематические изображения размером 240x200 пикселей) — есть несколько примеров слайдов с классом `icons`. Сами пиктограммы можно брать из [библиотеки пиктограмм Яндекса](https://patterns.yandex-team.ru/presentations?typeIn=icons). 
 
-Также вы можете выбрать фотографию на фотостоке [istockphoto.com](http://www.istockphoto.com/ru) и прислать нам ссылку, мы купим её для вас.
-
-Фотографии также можно выбрать из [библиотеки изображений Яндекса](https://patterns.yandex-team.ru/photos) или на фотостоке [istockphoto.com](http://www.istockphoto.com/ru). Чтобы получить изображение с фотостока, пришлите нам ссылку на [presentation@](presentation@yandex-team.ru) — и мы купим его для вас.
+Также вы можете выбрать фотографии из [библиотеки изображений Яндекса](https://patterns.yandex-team.ru/photos) или на фотостоке [istockphoto.com](http://www.istockphoto.com/ru). Чтобы получить изображение с фотостока, пришлите нам ссылку на [presentation@](presentation@yandex-team.ru) — и мы купим его для вас.
 
 ### Последовательное появление элементов слайда
 
