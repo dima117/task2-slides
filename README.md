@@ -1,4 +1,4 @@
-В этом репозитории находится Jekyller - генератор слайдов для [Shower](https://github.com/shower/shower) на основе контента на языке Markdown. Также здесь подключена тема оформления слайдов с корпоративным стилем Яндекса.
+В этом репозитории находится Jekyller - генератор слайдов для [Shower](https://github.com/shower/shower) в корпоративном стиле Яндекса из разметки на языке Markdown.
 
 **[Пример презентации](https://github.yandex-team.ru/pages/presentation/jekyller/)**
 
