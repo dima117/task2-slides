@@ -17,16 +17,16 @@ presentation:
     lang: ru            # ru, en
 
 author:
-    name: Иван Петров
-    position: разработчик интерфейсов
+    name: Автор
+    position: Должность
     company:
         name: Яндекс
-        url:  http://yandex.com/
+        url:  http://yandex.ru/
 
 # второй автор
 # author2:
-#   name: Николай Николаев
-#   position: разработчик интерфейсов
+#   name: Автор
+#   position: Должность
 
 fork_url: https://github.yandex-team.ru/presentation/jekyller
 progress: true # отображение прогресс-бара в нижней части слайдов
