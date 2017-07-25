@@ -23,7 +23,7 @@ Jekyll Shower работает в GitHub Pages и для его использо
 
 -  Форкните [этот репозиторий](https://github.yandex-team.ru/presentation/jekyller)
 -  Внесите необходимые изменения: укажите информацию о презентации и добавьте свой контент для слайдов. Это можно делать через web-интерфейс GitHub.
--  Сделайте Commit и Push своих изменений. GitHub автоматически запустит генерацию слайдов и через несколько минут презентация будет доступна на GitHub Pages по адресу: [https://github.yandex-team.ru/pages/<ваш-логин>/jekyller](https://github.yandex-team.ru/pages/presentation/jekyller).
+-  Сделайте Commit и Push своих изменений. GitHub автоматически запустит генерацию слайдов и через несколько минут презентация будет доступна на GitHub Pages по адресу: [github.yandex-team.ru/pages/<ваш-логин>/jekyller](https://github.yandex-team.ru/pages/presentation/jekyller).
 
 Обратите внимание, генерация слайдов запускается при выполнении операции Push – это значит, что в первый раз слайды будут сгенерированы при первой операции Push, а не при создании форка репозитория.
 
