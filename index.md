@@ -31,255 +31,48 @@ style: |
 
 </div>
 
-## Название раздела
+## Что вас ждет
+
+1. {:.next}О задании
+2. {:.next}Как сверстать
+3. {:.next}Дополительные критерии
+4. {:.next}Ответы на вопросы
+
+## О задании
 {:.section}
 
-### Верхний колонтитул
+## Что сделать
 
-## Длинная цитата переносится на несколько строк
-{:.blockquote}
+Сверстать две страницы сервиса "Переговорки": по макетам, адаптивно, кроссбраузерно.
 
-### Источник
+## Почему переговорки?
 
-## Заголовок
+## Почему макеты?
 
-Основной текст
+## Итог
 
-**Ключевая мысль**
+## Как сверстать
+{:.section}
 
-- Маркированный список
-- Маркированный список
+## Общая разметка
 
-1. Нумерованный список
-2. Нумерованный список
+## Шкала
 
-### Источник
+## Названия переговорок
 
-## Заголовок
+## Сотображение событий
 
-Элементы появляются по очереди
+## Страница редактирования
 
-1. {:.next}Нумерованный список
-2. {:.next}Нумерованный список
-3. {:.next}Нумерованный список
-4. {:.next}Нумерованный список
+## Дополнительные критерии
+{:.section}
 
 
-### Источник
 
-## Заголовок
-{:.images}
+## Вопросы?
+{:.section}
 
-![](themes/yandex2/images/images-one.svg)
-
-### Источник
-
-## Заголовок
-{:.images .two}
-
-![](themes/yandex2/images/images-two.svg)
-*Текст*
-
-![](themes/yandex2/images/images-two.svg)
-*Текст*
-
-### Источник
-
-## Заголовок
-{:.images .three}
-
-![](themes/yandex2/images/images-three.svg)
-*Текст*
-
-![](themes/yandex2/images/images-three.svg)
-*Текст*
-
-![](themes/yandex2/images/images-three.svg)
-*Текст*
-
-### Источник
-
-## Заголовок
-
-![](themes/yandex2/images/image-right.svg)
-{:.image-right}
-
-Основной текст
-
-**Ключевая мысль**
-
-- Маркированный список
-- Маркированный список
-
-1. Нумерованный список
-2. Нумерованный список
-
-### Источник
-
-## Заголовок
-
-<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
-
-![](themes/yandex2/images/icons.svg)
-{:.icon-left}
-
-Основной текст
-
-**Ключевая мысль**
-
-- Маркированный список
-- Маркированный список
-
-1. Нумерованный список
-2. Нумерованный список
-
-### Источник
-
-## Заголовок
-{:.icons}
-
-<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-### Источник
-
-## Заголовок
-{:.icons .four}
-
-<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-### Источник
-
-## Заголовок
-{:.icons .five}
-
-<!-- библиотека пиктограмм https://patterns.yandex-team.ru/presentations?typeIn=icons -->
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-![](themes/yandex2/images/icons.svg)
-*Текст*
-
-### Источник
-
-## Заголовок будет скрыт
-{:.fullscreen}
-
-![](themes/yandex2/images/images-fullscreen.svg)
-
-## Заголовок будет скрыт
-{:.fullscreen}
-
-![](themes/yandex2/images/images-fullscreen.svg)
-
-<figure markdown="1">
-Текст
-</figure>
-
-## Таблица
-
-|  Locavore     |  Umami       |  Helvetica |  Vegan     |
-+---------------|--------------|------------|------------+
-|  Fingerstache<br/>The second line |  Kale        |  Chips     |  Keytar    |
-|  Sriracha     |  Gluten-free |  Ennui     |  Keffiyeh  |
-|  Thundercats  |  Jean        |  Shorts    |  Biodiesel |
-|* Terry        |* Richardson  |* Swag      |* Blog      |
-
-Текст
-
-### Источник
-
-## Исходный код (html)
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Shower</title> <!--Comment-->
-    <link rel="stylesheet" href="screen.css">
-</head>
-<body>Hello!</body>
-</html>
-```
-
-## Исходный код (js)
-
-Пояснение для кода.
-
-```js
-var i, j, over, data = new Array(2, 34.12, 4.7, 0, 234, 5);
-var test = false;
-
-for (i = 1; i < data.length; i++) {
-    over = data[i]; 
-    for (j = i - 1; j >= 0 && data[j] > over; j--) {
-        data[j + 1] = data[j];
-    }
-    data[j + 1] = over;
-}
-alert(data.join(','));
-```
-
-## Исходный код (css)
-
-```css
-.head {
-    background-color: yellow;
-}
-
-.head__logo {
-    background-image: url(images/logo.svg);
-}
-
-#test, body {
-    font-weight: bold;
-}
-
-```
-
-## Этот заголовок будет скрыт
-{:.fullscreen}
-
-```js
-// исходный код (на весь экран)
-
-var x = 10;
-for (var i = 0; i < x; i++) {
-    console.log('hello!');
-}
-```
-
-## Контакты 
+## Спасибо
 {:.contacts}
 
 {% if site.author %}
@@ -314,16 +107,16 @@ for (var i = 0; i < x; i++) {
 -------
 
 <!-- left -->
-- {:.skype}author
-- {:.mail}author@yandex-team.ru
-- {:.github}author
+- {:.skype}dima117a
+- {:.mail}dima117a@yandex-team.ru
+- {:.github}dima117
 
 <!-- right -->
-- {:.twitter}@author
-- {:.facebook}author
+
 
 <!-- 
-
+- {:.twitter}@author
+- {:.facebook}author
 - {:.mail}author@yandex-team.ru
 - {:.phone}+7-999-888-7766
 - {:.github}author
