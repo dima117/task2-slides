@@ -12,7 +12,7 @@ default_body_class: list
 
 presentation:
     title: Задание на вёрстку
-    service: Школа разработки интерфейсов
+    service: ШРИ 2018
     nda: false
     lang: ru            # ru, en
 
