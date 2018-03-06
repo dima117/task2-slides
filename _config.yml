@@ -12,7 +12,7 @@ default_body_class: list
 
 presentation:
     title: Задание на вёрстку
-    service: ШРИ 2018
+    service: ШРИ
     nda: false
     lang: ru            # ru, en
 
