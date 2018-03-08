@@ -77,6 +77,18 @@ style: |
 ## Почему макеты?
 {:.section}
 
+## Заголовок
+{:.images .three}
+
+![](pictures/oshans.jpg)
+*Ольга Шанцева*
+
+![](pictures/dashamrt.jpg)
+*Даша Мартынюк*
+
+![](pictures/regsmirnova.jpg)
+*Регина Смирнова*
+
 ## Итог
 
 ## Как сверстать
