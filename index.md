@@ -171,6 +171,15 @@ style: |
 
 ### Как сверстать
 
+## Шкала - 00
+{:.fullscreen}
+
+![](pictures/scale-00.png)
+
+## Шкала - 01
+{:.fullscreen}
+
+![](pictures/scale-01.png)
 
 ## 3. На мобильном устройстве
 {:.section}
