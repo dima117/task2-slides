@@ -145,6 +145,29 @@ style: |
 
 ![](pictures/solution-04.png)
 
+## 2 способа
+{:.fullscreen}
+
+![](pictures/2-ways-00.png)
+
+## Стили - 00
+{:.fullscreen}
+
+![](pictures/styles-00.png)
+
+## Стили - 01
+{:.fullscreen}
+
+![](pictures/styles-01.png)
+
+## [ngrok.com](https://ngrok.com/)<br/><br/>[localtunnel.github.io](https://localtunnel.github.io/www/)
+{:.shout}
+
+## Стили - 02 (моб)
+{:.fullscreen}
+
+![](pictures/styles-02.png)
+
 
 ## Шкала
 
