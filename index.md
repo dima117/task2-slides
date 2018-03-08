@@ -105,7 +105,20 @@ style: |
 ## Как сверстать
 {:.section}
 
-## Общая разметка
+## Общая разметка - схема1
+{:.fullscreen}
+
+![](pictures/scheme-01.png)
+
+## Общая разметка - схема2
+{:.fullscreen}
+
+![](pictures/scheme-02.png)
+
+## Общая разметка - схема3
+{:.fullscreen}
+
+![](pictures/scheme-03.png)
 
 ## Шкала
 
