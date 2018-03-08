@@ -124,6 +124,8 @@ style: |
 ## 1. Разметка страницы
 {:.section}
 
+### Как сверстать
+
 ## Схема решения - 00
 {:.fullscreen}
 
@@ -167,6 +169,13 @@ style: |
 ## 2. Шкала времени
 {:.section}
 
+### Как сверстать
+
+
+## 3. На мобильном устройстве
+{:.section}
+
+### Как сверстать
 
 ## [ngrok.com](https://ngrok.com/)<br/><br/>[localtunnel.github.io](https://localtunnel.github.io/www/)
 {:.shout}
