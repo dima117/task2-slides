@@ -72,7 +72,7 @@ style: |
 ## Почему переговорки?
 {:.fullscreen}
 
-![](pictures/meeting-00.jpg)
+![](pictures/meeting-01.jpg)
 
 ## Почему макеты?
 {:.section}
