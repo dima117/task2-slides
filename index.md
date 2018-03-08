@@ -92,12 +92,12 @@ style: |
 ## Черновики - десктоп
 {:.fullscreen}
 
-![](pictures/draft-00.jpg)
+![](pictures/draft-00.png)
 
 ## Черновики - мобилки
 {:.fullscreen}
 
-![](pictures/draft-01.jpg)
+![](pictures/draft-01.png)
 
 ## Итог
 
