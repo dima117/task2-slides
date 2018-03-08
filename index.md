@@ -51,6 +51,16 @@ style: |
 
 ![](pictures/specs-00.png)
 
+## 2. Кроссбраузерность
+{:.fullscreen}
+
+![](pictures/browsers-00.png)
+
+## 2. Кроссбраузерность
+{:.fullscreen}
+
+![](pictures/browsers-01.png)
+
 ## Почему переговорки?
 
 ## Почему макеты?
