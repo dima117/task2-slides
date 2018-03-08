@@ -61,10 +61,11 @@ style: |
 
 ![](pictures/browsers-01.png)
 
-## 2. Кроссбраузерность
+<!-- ## 2. Кроссбраузерность
 {:.fullscreen}
 
 ![](pictures/vk-00.png)
+-->
 
 ## Почему переговорки?
 {:.section}
@@ -120,6 +121,9 @@ style: |
 
 ![](pictures/scheme-03.png)
 
+## 1. Разметка страницы
+{:.section}
+
 ## Схема решения - 00
 {:.fullscreen}
 
@@ -159,6 +163,10 @@ style: |
 {:.fullscreen}
 
 ![](pictures/styles-01.png)
+
+## 2. Шкала времени
+{:.section}
+
 
 ## [ngrok.com](https://ngrok.com/)<br/><br/>[localtunnel.github.io](https://localtunnel.github.io/www/)
 {:.shout}
