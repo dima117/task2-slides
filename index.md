@@ -77,7 +77,7 @@ style: |
 ## Почему макеты?
 {:.section}
 
-## Заголовок
+## Дизайнеры
 {:.images .three}
 
 ![](pictures/oshans.jpg)
@@ -88,6 +88,16 @@ style: |
 
 ![](pictures/regsmirnova.jpg)
 *Регина Смирнова*
+
+## Черновики - десктоп
+{:.fullscreen}
+
+![](pictures/draft-00.jpg)
+
+## Черновики - мобилки
+{:.fullscreen}
+
+![](pictures/draft-01.jpg)
 
 ## Итог
 
