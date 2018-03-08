@@ -99,7 +99,8 @@ style: |
 
 ![](pictures/draft-01.png)
 
-## Итог
+## В итоге &mdash; сложные качественные макеты.
+{:.blockquote}
 
 ## Как сверстать
 {:.section}
