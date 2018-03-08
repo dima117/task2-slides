@@ -61,6 +61,11 @@ style: |
 
 ![](pictures/browsers-01.png)
 
+## 2. Кроссбраузерность
+{:.fullscreen}
+
+![](pictures/vk-00.png)
+
 ## Почему переговорки?
 
 ## Почему макеты?
