@@ -67,8 +67,15 @@ style: |
 ![](pictures/vk-00.png)
 
 ## Почему переговорки?
+{:.section}
+
+## Почему переговорки?
+{:.fullscreen}
+
+![](pictures/meeting-00.jpg)
 
 ## Почему макеты?
+{:.section}
 
 ## Итог
 
