@@ -120,6 +120,32 @@ style: |
 
 ![](pictures/scheme-03.png)
 
+## Схема решения - 00
+{:.fullscreen}
+
+![](pictures/solution-00.png)
+
+## Схема решения - 01
+{:.fullscreen}
+
+![](pictures/solution-01.png)
+
+## Схема решения - 02
+{:.fullscreen}
+
+![](pictures/solution-02.png)
+
+## Схема решения - 03
+{:.fullscreen}
+
+![](pictures/solution-03.png)
+
+## Схема решения - 04
+{:.fullscreen}
+
+![](pictures/solution-04.png)
+
+
 ## Шкала
 
 ## Названия переговорок
