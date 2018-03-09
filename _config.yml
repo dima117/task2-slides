@@ -11,7 +11,7 @@ default_lang: en
 default_body_class: list
 
 presentation:
-    title: 2. Задание на вёрстку
+    title: Задание на вёрстку
     service: ШРИ
     nda: false
     lang: ru            # ru, en
