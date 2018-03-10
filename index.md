@@ -144,45 +144,8 @@ style: |
 
 ![](pictures/x-scheme-03.png)
 
-## Схема решения - 00
-{:.fullscreen}
-
-![](pictures/solution-00.png)
-
-## Схема решения - 01
-{:.fullscreen}
-
-![](pictures/solution-01.png)
-
-## Схема решения - 02
-{:.fullscreen}
-
-![](pictures/solution-02.png)
-
-## Схема решения - 03
-{:.fullscreen}
-
-![](pictures/solution-03.png)
-
-## Схема решения - 04
-{:.fullscreen}
-
-![](pictures/solution-04.png)
-
-## 2 способа
-{:.fullscreen}
-
-![](pictures/2-ways-00.png)
-
-## Стили - 00
-{:.fullscreen}
-
-![](pictures/styles-00.png)
-
-## Стили - 01
-{:.fullscreen}
-
-![](pictures/styles-01.png)
+## [CSS и iOS Safari](https://habrahabr.ru/post/332872/)
+{:.shout}
 
 ## 2. Шкала времени
 {:.section}
