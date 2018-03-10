@@ -155,12 +155,12 @@ style: |
 ## Шкала - 00
 {:.fullscreen}
 
-![](pictures/scale-00.png)
+![](pictures/scale-00-1.png)
 
 ## Шкала - 01
 {:.fullscreen}
 
-![](pictures/scale-01.png)
+![](pictures/scale-01-1.png)
 
 ## 3. Названия переговорок
 {:.section}
