@@ -129,7 +129,7 @@ style: |
 ## Схема решения - X - 01
 {:.fullscreen}
 
-![](pictures/x-scheme-01.png)
+![](pictures/x-scheme-01-1.png)
 
 ## Схема решения - 00
 {:.fullscreen}
