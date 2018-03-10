@@ -126,6 +126,11 @@ style: |
 
 ![](pictures/x-scheme-00.png)
 
+## Схема решения - X - 01
+{:.fullscreen}
+
+![](pictures/x-scheme-01.png)
+
 ## Схема решения - 00
 {:.fullscreen}
 
