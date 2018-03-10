@@ -106,12 +106,12 @@ style: |
 ## Как сверстать
 {:.section}
 
-## Общая разметка - схема2
+## Смотрим макет - desktop
 {:.fullscreen}
 
 ![](pictures/scheme-02.png)
 
-## Общая разметка - схема3
+## Смотрим макет - touch
 {:.fullscreen}
 
 ![](pictures/scheme-03.png)
@@ -120,6 +120,11 @@ style: |
 {:.section}
 
 ### Как сверстать
+
+## Схема решения - X - 00
+{:.fullscreen}
+
+![](pictures/x-scheme-00.png)
 
 ## Схема решения - 00
 {:.fullscreen}
