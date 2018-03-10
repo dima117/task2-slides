@@ -139,6 +139,11 @@ style: |
 
 ![](pictures/x-scheme-02.png)
 
+## Схема решения - X - 03
+{:.fullscreen}
+
+![](pictures/x-scheme-03.png)
+
 ## Схема решения - 00
 {:.fullscreen}
 
