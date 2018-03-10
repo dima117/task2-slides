@@ -106,11 +106,6 @@ style: |
 ## Как сверстать
 {:.section}
 
-## Общая разметка - схема1
-{:.fullscreen}
-
-![](pictures/scheme-01.png)
-
 ## Общая разметка - схема2
 {:.fullscreen}
 
