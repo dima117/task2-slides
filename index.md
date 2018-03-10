@@ -131,6 +131,9 @@ style: |
 
 ![](pictures/x-scheme-01-1.png)
 
+## [ngrok.com](https://ngrok.com/)<br/><br/>[localtunnel.github.io](https://localtunnel.github.io/www/)
+{:.shout}
+
 ## Схема решения - 00
 {:.fullscreen}
 
@@ -186,20 +189,7 @@ style: |
 
 ![](pictures/scale-01.png)
 
-## 3. На мобильном устройстве
-{:.section}
-
-### Как сверстать
-
-## [ngrok.com](https://ngrok.com/)<br/><br/>[localtunnel.github.io](https://localtunnel.github.io/www/)
-{:.shout}
-
-## Стили - 02 (моб)
-{:.fullscreen}
-
-![](pictures/styles-02-2.png)
-
-## 4. Названия переговорок
+## 3. Названия переговорок
 {:.section}
 
 ### Как сверстать
