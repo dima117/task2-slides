@@ -134,6 +134,11 @@ style: |
 ## [ngrok.com](https://ngrok.com/)<br/><br/>[localtunnel.github.io](https://localtunnel.github.io/www/)
 {:.shout}
 
+## Схема решения - X - 02
+{:.fullscreen}
+
+![](pictures/x-scheme-02.png)
+
 ## Схема решения - 00
 {:.fullscreen}
 
