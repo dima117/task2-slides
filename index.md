@@ -192,7 +192,7 @@ page.addEventListener('scroll', function () {
 ## Стили для панели с названиями
 {:.fullscreen}
 
-```cs
+```css
 .aside--float {
 
   position: sticky;
