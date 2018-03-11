@@ -224,7 +224,10 @@ page.addEventListener('scroll', function () {
 
 ### Как сверстать
 
-## Иллюстрация
+## Timeline - схема
+{:.fullscreen}
+
+![](pictures/timeline-00.png)
 
 ## [example](https://dima117.github.io/task2/pages/v4-index-timeline/index.html)
 {:.shout}
