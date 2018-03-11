@@ -314,16 +314,18 @@ page.addEventListener('scroll', function () {
 
 ```
 
-npm install --save-dev gulp
-npm install --save-dev gulp-autoprefixer
-npm install --save-dev gulp-sass
-npm install --save-dev gulp-clean-css
+
+
+$ npm install --save-dev gulp
+$ npm install --save-dev gulp-autoprefixer
+$ npm install --save-dev gulp-sass
+$ npm install --save-dev gulp-clean-css
 ```
 
 ## GULPFILE
 {:.fullscreen}
 
-```
+```js
 // gulpfile.js
 
 const gulp = require('gulp');
@@ -335,8 +337,7 @@ gulp.task('sass', function () {
   return gulp.src('./sass/**/*.scss')
     .pipe(sass())
     .pipe(autoprefixer({
-      browsers: ['last 2 versions'],
-      cascade: false
+      browsers: ['last 2 versions']
     }))
     .pipe(cleanCss())
     .pipe(gulp.dest('./css'));
