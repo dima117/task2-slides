@@ -228,6 +228,7 @@ page.addEventListener('scroll', function () {
 {:.shout}
 
 ## Цикл в CSCC
+{:.fullscreen}
 
 ```css
 @for $h from 0 through 15 {
@@ -244,6 +245,7 @@ page.addEventListener('scroll', function () {
 ```
 
 ## Классы
+{:.fullscreen}
 
 ```css
 ...
