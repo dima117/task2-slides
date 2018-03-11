@@ -301,12 +301,12 @@ page.addEventListener('scroll', function () {
 
 ## Автоматизация
 
-1. autoprefixer
-2. препроцессоры
+1. {:.next}autoprefixer
+2. {:.next}препроцессоры
   - константы
   - циклы
   - сборка (`@import`)
-3. оптимизация (dev/prod режимы)
+3. {:.next}оптимизация (dev/prod режимы)
 
 
 ## NPM INSTALL
