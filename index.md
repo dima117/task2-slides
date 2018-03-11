@@ -291,7 +291,7 @@ page.addEventListener('scroll', function () {
 2. {:.next}Одинаковое оформление кода
 
 ```
-...
+
 
 npm install -g stylelint
 
