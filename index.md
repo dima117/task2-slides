@@ -301,7 +301,47 @@ page.addEventListener('scroll', function () {
 
 ## Автоматизация
 
-автопрефиксер, препроцессоры и конкатенация, режимы для разработки и прода.
+1. autoprefixer
+2. препроцессоры
+  - константы
+  - циклы
+  - сборка (`@import`)
+3. оптимизация (dev/prod режимы)
+
+
+## NPM INSTALL
+{:.fullscreen}
+
+```
+
+npm install --save-dev gulp
+npm install --save-dev gulp-autoprefixer
+npm install --save-dev gulp-sass
+npm install --save-dev gulp-clean-css
+```
+
+## GULPFILE
+{:.fullscreen}
+
+```
+// gulpfile.js
+
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const autoprefixer = require('gulp-autoprefixer');
+const cleanCss = require('gulp-clean-css');
+
+gulp.task('sass', function () {
+  return gulp.src('./sass/**/*.scss')
+    .pipe(sass())
+    .pipe(autoprefixer({
+      browsers: ['last 2 versions'],
+      cascade: false
+    }))
+    .pipe(cleanCss())
+    .pipe(gulp.dest('./css'));
+});
+```
 
 ## Вопросы?
 {:.section}
