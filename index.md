@@ -199,6 +199,8 @@ page.addEventListener('scroll', function () {
 {:.fullscreen}
 
 ```css
+...
+
 .aside--float {
 
   position: sticky;
@@ -231,6 +233,8 @@ page.addEventListener('scroll', function () {
 {:.fullscreen}
 
 ```css
+...
+
 @for $h from 0 through 15 {
 
   @for $m from 0 through 3 {
