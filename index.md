@@ -131,6 +131,9 @@ style: |
 
 ![](pictures/x-scheme-01-1.png)
 
+## [example](https://dima117.github.io/task2/pages/v1-index-layout/index.html)
+{:.shout}
+
 ## [ngrok.com](https://ngrok.com/)<br/><br/>[localtunnel.github.io](https://localtunnel.github.io/www/)
 {:.shout}
 
@@ -161,6 +164,9 @@ style: |
 {:.fullscreen}
 
 ![](pictures/scale-01-1.png)
+
+## [example](https://dima117.github.io/task2/pages/v2-index-scale/index.html)
+{:.shout}
 
 ## 3. Названия переговорок
 {:.section}
@@ -208,6 +214,9 @@ page.addEventListener('scroll', function () {
 }
 ```
 
+## [example](https://dima117.github.io/task2/pages/v3-index-names/index.html)
+{:.shout}
+
 ## 4. Timeline
 {:.section}
 
@@ -215,9 +224,46 @@ page.addEventListener('scroll', function () {
 
 ## Иллюстрация
 
-## Классы
+## [example](https://dima117.github.io/task2/pages/v4-index-timeline/index.html)
+{:.shout}
 
 ## Цикл в CSCC
+
+```css
+@for $h from 0 through 15 {
+
+  @for $m from 0 through 3 {
+
+    .event-slot--#{$h}h#{$m*15}m {
+      
+      width: (100% / 16 * $h)   // часы 
+           + (100% / 64 * $m);  // минуты
+    }
+  }
+}
+```
+
+## Классы
+
+```css
+...
+
+.event-slot--1h0m { width: 6.25%; }
+
+.event-slot--1h15m { width: 7.8125%; }
+
+.event-slot--1h30m { width: 9.375%; }
+
+.event-slot--1h45m { width: 10.9375%; }
+
+.event-slot--2h0m { width: 12.5%; }
+
+.event-slot--2h15m { width: 14.0625%; }
+
+.event-slot--2h30m { width: 15.625%; }
+
+...
+```
 
 ## [example](https://www.sassmeister.com/gist/59bc49df90effefe881d9b70cedac9ce)
 {:.shout}
@@ -227,7 +273,8 @@ page.addEventListener('scroll', function () {
 
 ### Как сверстать
 
-
+## [example](https://dima117.github.io/task2/pages/v5-form-layout/form.html)
+{:.shout}
 
 ## Дополнительные критерии
 {:.section}
