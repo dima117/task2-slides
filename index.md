@@ -167,9 +167,46 @@ style: |
 
 ### Как сверстать
 
-## Суть проблемы
+## Смотрим макет - touch
+{:.fullscreen}
 
-## Решение
+![](pictures/scheme-03.png)
+
+## Навешиваем класс при скролле
+{:.fullscreen}
+
+```js
+// область, в которой происходит скролл
+var page = document.querySelector('.page');
+
+// панель с названиями переговорок
+var aside = document.querySelector('.aside');
+
+page.addEventListener('scroll', function () {
+    // если позиция скролла больше ширины панели,
+    // добавляем класс 'aside--float'
+    aside.classList.toggle('aside--float', page.scrollLeft > 120);
+}); 
+```
+
+## Стили для панели с названиями
+{:.fullscreen}
+
+```cs
+.aside--float {
+
+  position: sticky;
+
+  visibility: hidden;
+}
+
+.aside--float .room-name {
+
+  display: inline-block;
+  
+  visibility: visible;
+}
+```
 
 ## 4. Timeline
 {:.section}
