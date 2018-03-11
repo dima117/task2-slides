@@ -293,9 +293,9 @@ page.addEventListener('scroll', function () {
 ```
 
 
-npm install -g stylelint
+    $ npm install -g stylelint
 
-stylelint "foo/**/*.scss" --syntax scss
+    $ stylelint "foo/**/*.scss" --syntax scss
 ```
 {:.next}
 
